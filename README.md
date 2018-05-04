@@ -11,5 +11,5 @@ Original Project: [Universal-Data-Format](github.com/SpyceTewan/Universal-Data-F
 This Format-Parser (Software) is written by [Kronos924](github.com\Kronos9247).
 
 This Program is just a proof of concept and I used regex to parse the file syntax
-This software is a total rewrite!!
-No copied code from the original project!
+**This software is a total rewrite!!
+No copied code from the original project!**
