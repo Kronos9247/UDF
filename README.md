@@ -40,4 +40,26 @@ No copied code from the original project!**
 
     parser.close();
     ```
-  
+    
+**File Syntax:**
+  ```
+  test.test: heöfjs test : dhdhh
+
+  Hello124: XD
+
+  xd xd: xjsbgz db \n gdgf	djhs
+
+      ggdgdg: 		 dggd        
+
+  öshcvhh: test
+
+  test { test1, test2       }
+
+
+  ml {
+   multi line array,
+   xd 1245	^   	,
+   multiline 
+    multiline
+  }
+  ```
