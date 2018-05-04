@@ -1,4 +1,4 @@
-# UDF
+# UDF-RegEx
 A reimplemenation of Twean's UDF file format using regex
 
 # Credits
