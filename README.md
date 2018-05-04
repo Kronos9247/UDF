@@ -1,5 +1,5 @@
 # UDF-RegEx
-A reimplemenation of Twean's UDF file format using regex
+A reimplemenation of Tewan's UDF file format using regex
 
 # Credits
 The "UDF" file format is created by [Tewan](github.com/SpyceTewan) and
