@@ -20,4 +20,23 @@ No copied code from the original project!**
     ```java 
     UDFWriter writer = new UDFWriter(new FileWriter("C:\\pathToYourFile\\fileName.udf"));
     writer.write("KeyName", "Value");
-    writer.write("KeyName", new String[] { "YourValues1", "YourValues2" }); ```
+    writer.write("KeyName", new String[] { "YourValues1", "YourValues2" }); 
+    writer.close();
+    ```
+  * **Parser:**
+    ```java 
+    UDFParser parser = new UDFParser(ParserTest.class.getResourceAsStream("/fileName.udf")); //Internal file
+    try {
+     parser.parse();
+    } catch (UDFException e) {
+     e.printStackTrace();
+    }
+
+    if(parser.isParsed())
+     for(UDFValue value : parser.getValues()) {
+      System.out.println(value.toString());
+     }
+
+    parser.close();
+    ```
+  
