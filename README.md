@@ -2,10 +2,10 @@
 A reimplemenation of Twean's UDF file format using regex
 
 # Credits
-The "UDF" file format is created by Tewan (github.com/SpyceTewan) and
+The "UDF" file format is created by [Tewan](github.com/SpyceTewan) and
 is protected under the GNU General Public License v3.0
 
-Original Project: github.com/SpyceTewan/Universal-Data-Format
+Original Project: [Universal-Data-Format](github.com/SpyceTewan/Universal-Data-Format)
 
 
 This Format-Parser (Software) is written by Kronos9247 
