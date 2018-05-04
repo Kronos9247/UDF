@@ -13,3 +13,12 @@ This Format-Parser (Software) is written by [Kronos924](github.com\Kronos9247).
 This Program is just a proof of concept and I used regex to parse the file syntax.
 **This software is a total rewrite!!
 No copied code from the original project!**
+
+
+## Usage
+  * **Writer:**
+    ```java
+UDFWriter writer = new UDFWriter(new FileWriter("C:\\pathToYourFile\\fileName.udf"));
+writer.write("KeyName", "Value");
+writer.write("KeyName", new String[] { "YourValues1", "YourValues2" });
+    ```
