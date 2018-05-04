@@ -27,15 +27,15 @@ No copied code from the original project!**
     ```java 
     UDFParser parser = new UDFParser(ParserTest.class.getResourceAsStream("/fileName.udf")); //Internal file
     try {
-     parser.parse();
+      parser.parse();
     } catch (UDFException e) {
-     e.printStackTrace();
+      e.printStackTrace();
     }
 
     if(parser.isParsed())
-     for(UDFValue value : parser.getValues()) {
-      System.out.println(value.toString());
-     }
+       for(UDFValue value : parser.getValues()) {
+         System.out.println(value.toString());
+       }
 
     parser.close();
     ```
