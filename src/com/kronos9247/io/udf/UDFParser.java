@@ -90,13 +90,6 @@ public final class UDFParser implements UDF {
 				}
 			}
 		}
-//		String[] values = arrayCode.split(ARRAY_SPLITTER);
-//		formatLine(values);
-//		
-//		Matcher matcher = LINE_END.matcher(arrayCode);
-//		if(matcher.matches()) {
-//			
-//		}
 	}
 	
 	public void parseLine(String line) throws UDFException {
