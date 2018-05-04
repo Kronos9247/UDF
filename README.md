@@ -33,8 +33,8 @@ No copied code from the original project!**
     }
 
     if(parser.isParsed())
-       for(UDFValue value : parser.getValues()) {
-         System.out.println(value.toString());
+       for(UDFValue value : parser.getValues()) { //Looping through every entry
+         System.out.println(value.toString()); //Printing out those entries
        }
 
     parser.close();
