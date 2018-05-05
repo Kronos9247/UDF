@@ -3,7 +3,7 @@ A reimplemenation of Tewan's UDF file format using regex
 
 # Credits
 The "UDF" file format is created by [Tewan](github.com/SpyceTewan) and
-is protected under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.de.html)
+is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.de.html)
 
 Original Project: [Universal-Data-Format](github.com/SpyceTewan/Universal-Data-Format)
 
