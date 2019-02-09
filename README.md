@@ -5,7 +5,7 @@ A reimplemenation of Tewan's UDF file format using regex
 The "UDF" file format is created by [Tewan](github.com/SpyceTewan) and
 is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.de.html)
 
-Original Project: [Universal-Data-Format](github.com/SpyceTewan/Universal-Data-Format)
+Original Project: [Universal-Data-Format](http://github.com/SpyceTewan/Universal-Data-Format)
 
 
 This Format-Parser (Software) is written by [Kronos924](github.com\Kronos9247).
